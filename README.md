@@ -76,7 +76,7 @@ O bien exporta variables de entorno.
 
 5. Navega por el menú y ¡disfruta! 📚
 
-📁 Estructura del proyecto
+# 📁 Estructura del proyecto
 literAlura/
  ├─ .mvn/                   # Maven Wrapper
  
