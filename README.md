@@ -55,7 +55,7 @@ Todo se maneja mediante un **menú interactivo** en la terminal, con salidas lim
 > Requisitos: Java 17 y PostgreSQL corriendo en `localhost:5432`.
 
 1. **Clona el repo**  
-   `git clone https://github.com/tu-usuario/literAlura.git
+   `git clone https://github.com/biachiuzano/literAlura.git
    cd literAlura`
 
 2. **Crea la base (una vez)**
